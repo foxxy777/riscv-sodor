@@ -1,0 +1,4 @@
+[debug] [riscv-sodor-test] Classpath dependencies List()
+[debug] [riscv-sodor-test] Dependencies from configurations List(riscv-sodor)
+[debug] Bloop wrote the configuration of project 'riscv-sodor-test' to 'C:\Users\user\Documents\GitHub\riscv-sodor\.bloop\riscv-sodor-test.json'
+[success] Generated .bloop\riscv-sodor-test.json
